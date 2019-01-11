@@ -1,3 +1,47 @@
-.name {
-	color: #000;
+header .intro-text .name {
+	color: #fff;
+	text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+	font-size: 400%;
+}
+
+header .intro-text .skills {
+	color: #fff;
+	text-transform: none;
+    font-family: 'Raleway', sans-serif;
+	font-size: 200%;
+}
+
+.navbar {
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+.navbar-default {
+	background-color: #ff2a2a;
+}
+
+.navbar-toggle {
+    border: none;
+}
+
+.navbar-default .navbar-brand:hover {
+	color: #ababab;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #fff;
+}
+
+.navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar {
+	background-color: #ff2a2a;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+	color: #ababab;
+}
+
+header {
+	background-color: #ff2a2a;
 }

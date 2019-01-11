@@ -33,14 +33,14 @@ theme = "hugo-freelancer-theme"
 	custom_js  = []
 
     [params.navigation]
-        brand = "Mr. Hugo's Portfolio"
+        brand = "Locke Creatives"
 
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "profile.png"
-        name = "Mr. Hugo"
-        subtitle = "Blogger - Programmer - Gopher"
+        image = "lclogowotext.svg"
+        name = "Locke Creatives"
+        subtitle = "Logos - Graphics - Branding"
 
 
     [params.portfolio]
