@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Freelancer Theme"
+title = "Locke Creatives"
 theme = "hugo-freelancer-theme"
 
 
@@ -12,8 +12,8 @@ theme = "hugo-freelancer-theme"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "Mr. Hugo"
-    description = "My awesome description"
+    name = "Locke Creatives"
+    description = "Affordable design"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -29,7 +29,7 @@ theme = "hugo-freelancer-theme"
     email = "your@email.com"
 
     # Custom assets
-	custom_css = []
+	custom_css = ["css/custom.css"]
 	custom_js  = []
 
     [params.navigation]
